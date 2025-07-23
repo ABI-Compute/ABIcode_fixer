@@ -17,11 +17,17 @@ Code_fixer is an AI-powered command-line tool that automatically **detects**, **
 
 ## 📦 Installation
 
+1. Go to: (https://github.com/ABI-Compute/ABIcode_fixer/releases)
+2. Download the zip file
+3. Extract it to a suitable location
+4. Add its folder to your system's PATH
+5. Then in your folder that you extracted execute:
 ```bash
-git clone https://github.com/ABI-Compute/ABIcode_fixer.git
-cd ABIcode_fixer
-pip install .
+setup.bat
 ```
+
+*Note: ABIcode_fixer is Windows only for now*
+*The source code is open if you're on Mac or Linux*
 
 ---
 
