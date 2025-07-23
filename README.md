@@ -18,8 +18,8 @@ Code_fixer is an AI-powered command-line tool that automatically **detects**, **
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/code_fixer.git
-cd code_fixer
+git clone https://github.com/ABI-Compute/ABIcode_fixer.git
+cd ABIcode_fixer
 pip install .
 ```
 
