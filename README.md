@@ -26,8 +26,8 @@ Code_fixer is an AI-powered command-line tool that automatically **detects**, **
 setup.bat
 ```
 
-*Note: ABIcode_fixer is Windows only for now*
-*The source code is open if you're on Mac or Linux*
+*Note: ABIcode_fixer is Windows only for now.*
+*The source code is open if you're on Mac or Linux.*
 
 ---
 
